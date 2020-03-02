@@ -1,0 +1,25 @@
+title:              Apurv Tyagi
+email:              apurvtyagi26@gmail.com
+description:        Data Scientist and Software Engineer
+author:             Apurv Tyagi
+baseurl:            "/apurv-tyagi-blog"
+url:                "https://tyagi2607.github.io"
+
+# Social Profiles
+twitter_username:   tyagi_2607
+github_username:    tyagi2607
+facebook_username:  apurv.tyagi.5
+linkedin_username:  apurvtyagi
+
+# Add your google-analytics ID here to activate google analytics
+google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+
+# Build settings
+theme: jekyll-theme-clean-blog
+markdown:           kramdown
+paginate:           5
+paginate_path:      "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
